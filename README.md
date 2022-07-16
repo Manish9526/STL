@@ -1,4 +1,4 @@
-#Generic Data Structures
+# Generic Data Structures
 
 The identical version of STL(Standard Template Libraries ) in C++ and Collections Framework in JAVA
 
@@ -10,7 +10,7 @@ The identical version of STL(Standard Template Libraries ) in C++ and Collection
 5)Stack
 6)Queue
 
-#In this project,below functionalities are there
+# In this project,below functionalities are there
 
 1)InsertFirst
 2) InsertLast
